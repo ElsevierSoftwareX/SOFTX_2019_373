@@ -1,0 +1,12 @@
+Instructions
+================================
+Execute ContHeart
+
+Open the video "VideoSample.mp4"
+
+Try to get good results selecting different parameters in the software
+
+Alternatively, import the settings from the "config.dfl" file (click Custom parameters -> Load Config.).
+The results shown in "Results.txt" were obtained using that configuration.
+
+Note that by selecting an appropriate configuration, the software is able to properly detect the contraction of a cell in a low-resolution and noisy video.

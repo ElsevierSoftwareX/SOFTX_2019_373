@@ -1,0 +1,18 @@
+cannyThreshold: 40
+thresholdLinking: 20
+standartGrayScaleCheck: True
+customGrayScaleCheck: False
+minorGrayScale: 100
+majorGrayScale: 255
+blurBeingUsed: True
+medianBeingUsed: False
+gaussianBeingUsed: False
+noTreatment: False
+blurWidth: 5
+blurHeight: 5
+sizeMedian: 5
+kGauss: 5
+sizeFactor: 5
+calibrationFactor: 250
+Please: note that all parameters were exported to this file. If you didn't alter some of them, the default values were 
+                  exported instead.
